@@ -1,8 +1,5 @@
 
 
-<p align="center">
-  <b>fossa-cli</b> - Fast, portable, and reliable dependency analysis for any codebase.
-</p>
 
 <p align="center">
   <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Ffossas%2Ffossa-cli?ref=badge_shield" alt="FOSSA Status">
